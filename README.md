@@ -10,4 +10,5 @@
 
 # how to contact me the fastest:
 1.discord
-1.steam
+
+2.steam
