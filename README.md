@@ -8,7 +8,11 @@
 
 [discord] showowa#6969
 
+[my anime list] https://myanimelist.net/profile/showowa
+
 # how to contact me the fastest:
 1.discord
 
 2.steam
+
+
