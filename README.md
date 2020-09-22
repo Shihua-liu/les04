@@ -16,4 +16,4 @@
 2.steam
 
 
-(/image/reddit.png)
+(/image/https://www.google.com/search?q=reddit&sxsrf=ALeKk03USzEFl5Do3H5T8J3aSDfP6AlwbA:1600768797945&source=lnms&tbm=isch&sa=X&ved=2ahUKEwigkca8wPzrAhWCGuwKHeHfCi0Q_AUoAXoECBoQAw&biw=1536&bih=754#imgrc=kuQfepqcNfUj9M)
