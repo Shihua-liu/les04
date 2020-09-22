@@ -16,4 +16,4 @@
 2.steam
 
 
-![This is a alt text.](/image/reddit.png "This is a sample image.")
+![This is a alt text.](/image/reddit.JPEG "This is a sample image.")
