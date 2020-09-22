@@ -16,4 +16,4 @@
 2.steam
 
 
-![f](/image/reddit.PNG)
+![f](reddit.PNG)
