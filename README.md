@@ -16,4 +16,4 @@
 2.steam
 
 
-![](/image/reddit.PNG "This is a sample image.")
+![f](/image/reddit.PNG "This is a sample image.")
